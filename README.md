@@ -1,5 +1,5 @@
 # Crime-Categorization
-Analyze and categorize data into different kinds of crimes using Spark:
+Analyze and categorize data into different kinds of crimes using Spark
 
 SF Police Department wants to categorize crimes that were registered in different police departments.  The data given by SF Police department has the following columns:
 
