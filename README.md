@@ -6,6 +6,7 @@ SF Police Department wants to categorize crimes that were registered in differen
 
 Data Fields:
 
+
 Dates - timestamp of the crime incident
 Category - category of the crime incident (only in train.csv). This is the target variable you are going to predict.
 Descript - detailed description of the crime incident (only in train.csv)
