@@ -16,3 +16,4 @@ Resolution - how the crime incident was resolved (only in train.csv),
 Address - the approximate street address of the crime incident ,
 X - Longitude,
 Y - Latitude.
+
