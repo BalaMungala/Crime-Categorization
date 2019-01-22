@@ -17,3 +17,4 @@ Address - the approximate street address of the crime incident ,
 X - Longitude,
 Y - Latitude.
 
+spark is inmemory processing engine
